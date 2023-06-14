@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "objectId": 426720,
+      "title": "Search Company",
+      "actions": [
+        {
+          "type": "IFRAME",
+          "width": 2048,
+          "height": 1024,
+          "uri": "https://hubspot-plugin-stg.xaiondata.com/search-company",
+          "label": "Search Company",
+          "associatedObjectProperties": [
+            "name",
+            "leadpool_integrated_id",
+            "hs_object_id",
+            "associatedcompanyid",
+            "company",
+            "dealname"
+          ]
+        }
+      ]
+    }
+  ]
+}
